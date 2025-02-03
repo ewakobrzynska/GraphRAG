@@ -1,0 +1,4629 @@
+[
+  {
+    "completeness": 5,
+    "country": [
+      "Germany"
+    ],
+    "dataProvider": [
+      "Digital Art and Culture Archive D\u00fcsseldorf"
+    ],
+    "dcCreator": [
+      "K\u00fcnstler: Unbekannt",
+      "K\u00fcnstler: Pier Leone Ghezzi (Rom 1674-1755 Rom)"
+    ],
+    "dcCreatorLangAware": {
+      "de": [
+        "K\u00fcnstler: Unbekannt",
+        "K\u00fcnstler: Pier Leone Ghezzi (Rom 1674-1755 Rom)"
+      ]
+    },
+    "dcTitleLangAware": {
+      "la": [
+        "Antike Vase"
+      ]
+    },
+    "dcTypeLangAware": {
+      "de": [
+        "Zeichnung",
+        "Grafik"
+      ],
+      "def": [
+        "http://data.europeana.eu/concept/35"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/35"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Zeichnung"
+      },
+      {
+        "def": "Piirustus"
+      },
+      {
+        "def": "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+      },
+      {
+        "def": "Desenho"
+      },
+      {
+        "def": "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+      },
+      {
+        "def": "Pie\u0161imas"
+      },
+      {
+        "def": "Z\u012bm\u0113jums"
+      },
+      {
+        "def": "Crte\u017e"
+      },
+      {
+        "def": "Dessin"
+      },
+      {
+        "def": "Rajz"
+      },
+      {
+        "def": "Kresba"
+      },
+      {
+        "def": "Risba"
+      },
+      {
+        "def": "L\u00edn\u00edocht"
+      },
+      {
+        "def": "Dibuix"
+      },
+      {
+        "def": "Teckning"
+      },
+      {
+        "def": "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+      },
+      {
+        "def": "Drawing"
+      },
+      {
+        "def": "Disegno"
+      },
+      {
+        "def": "Dibujo"
+      },
+      {
+        "def": "Joonistus"
+      },
+      {
+        "def": "Kresba"
+      },
+      {
+        "def": "Marrazki"
+      },
+      {
+        "def": "Rysunek"
+      },
+      {
+        "def": "Desen"
+      },
+      {
+        "def": "Tegning"
+      },
+      {
+        "def": "Tekening"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Zeichnung"
+      ],
+      "fi": [
+        "Piirustus"
+      ],
+      "ru": [
+        "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+      ],
+      "pt": [
+        "Desenho"
+      ],
+      "bg": [
+        "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+      ],
+      "lt": [
+        "Pie\u0161imas"
+      ],
+      "lv": [
+        "Z\u012bm\u0113jums"
+      ],
+      "hr": [
+        "Crte\u017e"
+      ],
+      "fr": [
+        "Dessin"
+      ],
+      "hu": [
+        "Rajz"
+      ],
+      "sk": [
+        "Kresba"
+      ],
+      "sl": [
+        "Risba"
+      ],
+      "ga": [
+        "L\u00edn\u00edocht"
+      ],
+      "ca": [
+        "Dibuix"
+      ],
+      "sv": [
+        "Teckning"
+      ],
+      "el": [
+        "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+      ],
+      "en": [
+        "Drawing"
+      ],
+      "it": [
+        "Disegno"
+      ],
+      "es": [
+        "Dibujo"
+      ],
+      "et": [
+        "Joonistus"
+      ],
+      "cs": [
+        "Kresba"
+      ],
+      "eu": [
+        "Marrazki"
+      ],
+      "pl": [
+        "Rysunek"
+      ],
+      "ro": [
+        "Desen"
+      ],
+      "da": [
+        "Tegning"
+      ],
+      "nl": [
+        "Tekening"
+      ]
+    },
+    "edmDatasetName": [
+      "2064114_MUSEU_D_Kult"
+    ],
+    "edmIsShownAt": [
+      "http://www.duesseldorf.de/dkult/DE-MUS-038015/127934"
+    ],
+    "edmIsShownBy": [
+      "https://emuseum.duesseldorf.de/internal/media/dispatcher/79068/78829/resize:format=full"
+    ],
+    "edmPlace": [
+      "https://sws.geonames.org/2921044/",
+      "https://sws.geonames.org/9781002/"
+    ],
+    "edmPlaceAltLabel": [
+      {
+        "def": "Bundesrepublik"
+      },
+      {
+        "def": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u0420\u0413"
+      },
+      {
+        "def": "\u041c\u0443\u0437\u0435\u0439 \u041a\u0443\u043d\u0441\u0442\u043f\u0430\u043b\u0430\u0441\u0442"
+      },
+      {
+        "def": "Federal Republic of Germany"
+      },
+      {
+        "def": "West Germany"
+      },
+      {
+        "def": "\u04c1\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      },
+      {
+        "def": "Museo Palacio de Arte de D\u00fcsseldorf"
+      },
+      {
+        "def": "\u85dd\u8853\u5bae\u535a\u7269\u9928"
+      }
+    ],
+    "edmPlaceAltLabelLangAware": {
+      "de": [
+        "Bundesrepublik"
+      ],
+      "ru": [
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438",
+        "\u0424\u0420\u0413",
+        "\u041c\u0443\u0437\u0435\u0439 \u041a\u0443\u043d\u0441\u0442\u043f\u0430\u043b\u0430\u0441\u0442"
+      ],
+      "en": [
+        "Federal Republic of Germany",
+        "West Germany"
+      ],
+      "ro": [
+        "\u04c1\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      ],
+      "es": [
+        "Museo Palacio de Arte de D\u00fcsseldorf"
+      ],
+      "zh": [
+        "\u85dd\u8853\u5bae\u535a\u7269\u9928"
+      ]
+    },
+    "edmPlaceLabel": [
+      {
+        "def": "Bundesrepublik Deutschland"
+      },
+      {
+        "def": "Deutschland"
+      },
+      {
+        "def": "Tyskland"
+      },
+      {
+        "def": "Saksa"
+      },
+      {
+        "def": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      },
+      {
+        "def": "Alemanha"
+      },
+      {
+        "def": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      },
+      {
+        "def": "Vokietija"
+      },
+      {
+        "def": "Njema\u010dka"
+      },
+      {
+        "def": "V\u0101cija"
+      },
+      {
+        "def": "Allemagne"
+      },
+      {
+        "def": "N\u00e9metorsz\u00e1g"
+      },
+      {
+        "def": "Nemecko"
+      },
+      {
+        "def": "Nem\u010dija"
+      },
+      {
+        "def": "an Ghearm\u00e1in"
+      },
+      {
+        "def": "Alemanya"
+      },
+      {
+        "def": "Tyskland"
+      },
+      {
+        "def": "il-\u0120ermanja"
+      },
+      {
+        "def": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1"
+      },
+      {
+        "def": "Germany"
+      },
+      {
+        "def": "Germania"
+      },
+      {
+        "def": "Alemania"
+      },
+      {
+        "def": "Saksamaa"
+      },
+      {
+        "def": "N\u011bmecko"
+      },
+      {
+        "def": "Niemcy"
+      },
+      {
+        "def": "Germania"
+      },
+      {
+        "def": "Tyskland"
+      },
+      {
+        "def": "Duitsland"
+      },
+      {
+        "def": "Museum Kunstpalast"
+      }
+    ],
+    "edmPlaceLabelLangAware": {
+      "de": [
+        "Bundesrepublik Deutschland",
+        "Deutschland"
+      ],
+      "no": [
+        "Tyskland"
+      ],
+      "fi": [
+        "Saksa"
+      ],
+      "ru": [
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      ],
+      "def": [
+        "Museum Kunstpalast"
+      ],
+      "pt": [
+        "Alemanha"
+      ],
+      "bg": [
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      ],
+      "lt": [
+        "Vokietija"
+      ],
+      "hr": [
+        "Njema\u010dka"
+      ],
+      "lv": [
+        "V\u0101cija"
+      ],
+      "fr": [
+        "Allemagne"
+      ],
+      "hu": [
+        "N\u00e9metorsz\u00e1g"
+      ],
+      "sk": [
+        "Nemecko"
+      ],
+      "sl": [
+        "Nem\u010dija"
+      ],
+      "ga": [
+        "an Ghearm\u00e1in"
+      ],
+      "ca": [
+        "Alemanya"
+      ],
+      "sv": [
+        "Tyskland"
+      ],
+      "mt": [
+        "il-\u0120ermanja"
+      ],
+      "el": [
+        "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1"
+      ],
+      "en": [
+        "Germany"
+      ],
+      "it": [
+        "Germania"
+      ],
+      "es": [
+        "Alemania"
+      ],
+      "et": [
+        "Saksamaa"
+      ],
+      "cs": [
+        "N\u011bmecko"
+      ],
+      "pl": [
+        "Niemcy"
+      ],
+      "ro": [
+        "Germania"
+      ],
+      "da": [
+        "Tyskland"
+      ],
+      "nl": [
+        "Duitsland"
+      ]
+    },
+    "edmPlaceLatitude": [
+      "51.5",
+      "51.23503"
+    ],
+    "edmPlaceLongitude": [
+      "10.5",
+      "6.77258"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Femuseum.duesseldorf.de%2Finternal%2Fmedia%2Fdispatcher%2F79068%2F78829%2Fresize%3Aformat%3Dpreview&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1722%2F1738"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1722/1738"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1722/1738"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2064114_MUSEU_D_Kult"
+    ],
+    "europeanaCompleteness": 5,
+    "guid": "https://www.europeana.eu/item/2064114/Museu_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_127934?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2064114/Museu_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_127934",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2064114/Museu_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_127934.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000004502139",
+      "http://data.europeana.eu/organization/1482250000004671142",
+      "http://data.europeana.eu/organization/1482250000045529031"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "MUSEU"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 117.82772,
+    "timestamp": 1688685079022,
+    "timestamp_created": "2016-12-05T15:06:06.696Z",
+    "timestamp_created_epoch": 1480950366696,
+    "timestamp_update": "2021-04-21T08:05:18.386Z",
+    "timestamp_update_epoch": 1618992318386,
+    "title": [
+      "Antike Vase",
+      "Ancient Vase"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 5,
+    "country": [
+      "Germany"
+    ],
+    "dataProvider": [
+      "Digital Art and Culture Archive D\u00fcsseldorf"
+    ],
+    "dcCreator": [
+      "K\u00fcnstler: Unbekannt",
+      "K\u00fcnstler: Pier Leone Ghezzi (Rom 1674-1755 Rom)"
+    ],
+    "dcCreatorLangAware": {
+      "de": [
+        "K\u00fcnstler: Unbekannt",
+        "K\u00fcnstler: Pier Leone Ghezzi (Rom 1674-1755 Rom)"
+      ]
+    },
+    "dcTitleLangAware": {
+      "la": [
+        "Antike Vase"
+      ]
+    },
+    "dcTypeLangAware": {
+      "de": [
+        "Zeichnung",
+        "Grafik"
+      ],
+      "def": [
+        "http://data.europeana.eu/concept/35"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/35"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Zeichnung"
+      },
+      {
+        "def": "Piirustus"
+      },
+      {
+        "def": "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+      },
+      {
+        "def": "Desenho"
+      },
+      {
+        "def": "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+      },
+      {
+        "def": "Pie\u0161imas"
+      },
+      {
+        "def": "Z\u012bm\u0113jums"
+      },
+      {
+        "def": "Crte\u017e"
+      },
+      {
+        "def": "Dessin"
+      },
+      {
+        "def": "Rajz"
+      },
+      {
+        "def": "Kresba"
+      },
+      {
+        "def": "Risba"
+      },
+      {
+        "def": "L\u00edn\u00edocht"
+      },
+      {
+        "def": "Dibuix"
+      },
+      {
+        "def": "Teckning"
+      },
+      {
+        "def": "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+      },
+      {
+        "def": "Drawing"
+      },
+      {
+        "def": "Disegno"
+      },
+      {
+        "def": "Dibujo"
+      },
+      {
+        "def": "Joonistus"
+      },
+      {
+        "def": "Kresba"
+      },
+      {
+        "def": "Marrazki"
+      },
+      {
+        "def": "Rysunek"
+      },
+      {
+        "def": "Desen"
+      },
+      {
+        "def": "Tegning"
+      },
+      {
+        "def": "Tekening"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Zeichnung"
+      ],
+      "fi": [
+        "Piirustus"
+      ],
+      "ru": [
+        "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+      ],
+      "pt": [
+        "Desenho"
+      ],
+      "bg": [
+        "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+      ],
+      "lt": [
+        "Pie\u0161imas"
+      ],
+      "lv": [
+        "Z\u012bm\u0113jums"
+      ],
+      "hr": [
+        "Crte\u017e"
+      ],
+      "fr": [
+        "Dessin"
+      ],
+      "hu": [
+        "Rajz"
+      ],
+      "sk": [
+        "Kresba"
+      ],
+      "sl": [
+        "Risba"
+      ],
+      "ga": [
+        "L\u00edn\u00edocht"
+      ],
+      "ca": [
+        "Dibuix"
+      ],
+      "sv": [
+        "Teckning"
+      ],
+      "el": [
+        "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+      ],
+      "en": [
+        "Drawing"
+      ],
+      "it": [
+        "Disegno"
+      ],
+      "es": [
+        "Dibujo"
+      ],
+      "et": [
+        "Joonistus"
+      ],
+      "cs": [
+        "Kresba"
+      ],
+      "eu": [
+        "Marrazki"
+      ],
+      "pl": [
+        "Rysunek"
+      ],
+      "ro": [
+        "Desen"
+      ],
+      "da": [
+        "Tegning"
+      ],
+      "nl": [
+        "Tekening"
+      ]
+    },
+    "edmDatasetName": [
+      "2064114_MUSEU_D_Kult"
+    ],
+    "edmIsShownAt": [
+      "http://www.duesseldorf.de/dkult/DE-MUS-038015/127933"
+    ],
+    "edmIsShownBy": [
+      "https://emuseum.duesseldorf.de/internal/media/dispatcher/79067/78828/resize:format=full"
+    ],
+    "edmPlace": [
+      "https://sws.geonames.org/2921044/",
+      "https://sws.geonames.org/9781002/"
+    ],
+    "edmPlaceAltLabel": [
+      {
+        "def": "Bundesrepublik"
+      },
+      {
+        "def": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u0420\u0413"
+      },
+      {
+        "def": "\u041c\u0443\u0437\u0435\u0439 \u041a\u0443\u043d\u0441\u0442\u043f\u0430\u043b\u0430\u0441\u0442"
+      },
+      {
+        "def": "Federal Republic of Germany"
+      },
+      {
+        "def": "West Germany"
+      },
+      {
+        "def": "\u04c1\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      },
+      {
+        "def": "Museo Palacio de Arte de D\u00fcsseldorf"
+      },
+      {
+        "def": "\u85dd\u8853\u5bae\u535a\u7269\u9928"
+      }
+    ],
+    "edmPlaceAltLabelLangAware": {
+      "de": [
+        "Bundesrepublik"
+      ],
+      "ru": [
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438",
+        "\u0424\u0420\u0413",
+        "\u041c\u0443\u0437\u0435\u0439 \u041a\u0443\u043d\u0441\u0442\u043f\u0430\u043b\u0430\u0441\u0442"
+      ],
+      "en": [
+        "Federal Republic of Germany",
+        "West Germany"
+      ],
+      "ro": [
+        "\u04c1\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      ],
+      "es": [
+        "Museo Palacio de Arte de D\u00fcsseldorf"
+      ],
+      "zh": [
+        "\u85dd\u8853\u5bae\u535a\u7269\u9928"
+      ]
+    },
+    "edmPlaceLabel": [
+      {
+        "def": "Bundesrepublik Deutschland"
+      },
+      {
+        "def": "Deutschland"
+      },
+      {
+        "def": "Tyskland"
+      },
+      {
+        "def": "Saksa"
+      },
+      {
+        "def": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      },
+      {
+        "def": "Alemanha"
+      },
+      {
+        "def": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      },
+      {
+        "def": "Vokietija"
+      },
+      {
+        "def": "Njema\u010dka"
+      },
+      {
+        "def": "V\u0101cija"
+      },
+      {
+        "def": "Allemagne"
+      },
+      {
+        "def": "N\u00e9metorsz\u00e1g"
+      },
+      {
+        "def": "Nemecko"
+      },
+      {
+        "def": "Nem\u010dija"
+      },
+      {
+        "def": "an Ghearm\u00e1in"
+      },
+      {
+        "def": "Alemanya"
+      },
+      {
+        "def": "Tyskland"
+      },
+      {
+        "def": "il-\u0120ermanja"
+      },
+      {
+        "def": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1"
+      },
+      {
+        "def": "Germany"
+      },
+      {
+        "def": "Germania"
+      },
+      {
+        "def": "Alemania"
+      },
+      {
+        "def": "Saksamaa"
+      },
+      {
+        "def": "N\u011bmecko"
+      },
+      {
+        "def": "Niemcy"
+      },
+      {
+        "def": "Germania"
+      },
+      {
+        "def": "Tyskland"
+      },
+      {
+        "def": "Duitsland"
+      },
+      {
+        "def": "Museum Kunstpalast"
+      }
+    ],
+    "edmPlaceLabelLangAware": {
+      "de": [
+        "Bundesrepublik Deutschland",
+        "Deutschland"
+      ],
+      "no": [
+        "Tyskland"
+      ],
+      "fi": [
+        "Saksa"
+      ],
+      "ru": [
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      ],
+      "def": [
+        "Museum Kunstpalast"
+      ],
+      "pt": [
+        "Alemanha"
+      ],
+      "bg": [
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
+      ],
+      "lt": [
+        "Vokietija"
+      ],
+      "hr": [
+        "Njema\u010dka"
+      ],
+      "lv": [
+        "V\u0101cija"
+      ],
+      "fr": [
+        "Allemagne"
+      ],
+      "hu": [
+        "N\u00e9metorsz\u00e1g"
+      ],
+      "sk": [
+        "Nemecko"
+      ],
+      "sl": [
+        "Nem\u010dija"
+      ],
+      "ga": [
+        "an Ghearm\u00e1in"
+      ],
+      "ca": [
+        "Alemanya"
+      ],
+      "sv": [
+        "Tyskland"
+      ],
+      "mt": [
+        "il-\u0120ermanja"
+      ],
+      "el": [
+        "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1"
+      ],
+      "en": [
+        "Germany"
+      ],
+      "it": [
+        "Germania"
+      ],
+      "es": [
+        "Alemania"
+      ],
+      "et": [
+        "Saksamaa"
+      ],
+      "cs": [
+        "N\u011bmecko"
+      ],
+      "pl": [
+        "Niemcy"
+      ],
+      "ro": [
+        "Germania"
+      ],
+      "da": [
+        "Tyskland"
+      ],
+      "nl": [
+        "Duitsland"
+      ]
+    },
+    "edmPlaceLatitude": [
+      "51.5",
+      "51.23503"
+    ],
+    "edmPlaceLongitude": [
+      "10.5",
+      "6.77258"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Femuseum.duesseldorf.de%2Finternal%2Fmedia%2Fdispatcher%2F79067%2F78828%2Fresize%3Aformat%3Dpreview&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1722%2F1738"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1722/1738"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1722/1738"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2064114_MUSEU_D_Kult"
+    ],
+    "europeanaCompleteness": 5,
+    "guid": "https://www.europeana.eu/item/2064114/Museu_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_127933?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2064114/Museu_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_127933",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2064114/Museu_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_127933.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000004502139",
+      "http://data.europeana.eu/organization/1482250000004671142",
+      "http://data.europeana.eu/organization/1482250000045529031"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "MUSEU"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 100.326965,
+    "timestamp": 1688685078816,
+    "timestamp_created": "2016-12-05T15:06:06.696Z",
+    "timestamp_created_epoch": 1480950366696,
+    "timestamp_update": "2021-04-21T08:05:18.386Z",
+    "timestamp_update_epoch": 1618992318386,
+    "title": [
+      "Antike Vase",
+      "Two Ancient Vases"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Belgium"
+    ],
+    "dataProvider": [
+      "Catholic University of Leuven"
+    ],
+    "dcDescription": [
+      "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery.",
+      "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ],
+      "nl": [
+        "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "Ancient Greek pottery. Vase"
+      ],
+      "nl": [
+        "Oud-Grieks aardewerk. Vaas"
+      ]
+    },
+    "dcTypeLangAware": {
+      "def": [
+        "http://vocab.getty.edu/aat/300046300",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300128675",
+        "http://data.europeana.eu/concept/1683",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "en": [
+        "Photography",
+        "glass slide"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1683",
+      "http://vocab.getty.edu/aat/300128675",
+      "http://vocab.getty.edu/aat/300389795",
+      "http://data.europeana.eu/concept/48",
+      "http://vocab.getty.edu/aat/300046300"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Genre der Fotografie"
+      },
+      {
+        "def": "Gelatinefolie"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "Valokuvaustyyli"
+      },
+      {
+        "def": "Valokuva"
+      },
+      {
+        "def": "Fotografigenre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "fotografias (obras visuais)"
+      },
+      {
+        "def": "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2"
+      },
+      {
+        "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      },
+      {
+        "def": "Photography genre"
+      },
+      {
+        "def": "gelatin silver transparencies"
+      },
+      {
+        "def": "photography (discipline)"
+      },
+      {
+        "def": "Photograph"
+      },
+      {
+        "def": "photographs"
+      },
+      {
+        "def": "Generi fotografici"
+      },
+      {
+        "def": "trasparenze alla gelatina d'argento"
+      },
+      {
+        "def": "fotografia (disciplina)"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Genre photographique"
+      },
+      {
+        "def": "Photographie"
+      },
+      {
+        "def": "photographies"
+      },
+      {
+        "def": "Fotogr\u00e1fia jellege"
+      },
+      {
+        "def": "F\u00e9nyk\u00e9p"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "transparencias de plata en gelatina"
+      },
+      {
+        "def": "Fotograf\u00eda"
+      },
+      {
+        "def": "fotograf\u00edas (obra visual)"
+      },
+      {
+        "def": "Fotografick\u00fd \u017e\u00e1nr"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Genero fotografiko"
+      },
+      {
+        "def": "Argazkilaritza"
+      },
+      {
+        "def": "Se\u00e1nra grianghrafad\u00f3ireachta"
+      },
+      {
+        "def": "Grianghraf"
+      },
+      {
+        "def": "Gatunek fotograficzny"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografisk genre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "Gen fotografic"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "G\u00e8nere fotogr\u00e0fic"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografiegenre"
+      },
+      {
+        "def": "gelatine-zilver transparanten"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "foto's"
+      },
+      {
+        "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotoatt\u0113ls"
+      },
+      {
+        "def": "Fotograf"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Foto"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Gelatinefolie",
+        "Fotografie",
+        "Foto",
+        "Genre der Fotografie"
+      ],
+      "fi": [
+        "Valokuvaustyyli",
+        "Valokuva"
+      ],
+      "ru": [
+        "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      ],
+      "pt": [
+        "G\u00e9nero fotogr\u00e1fico",
+        "Fotografia",
+        "fotografias (obras visuais)"
+      ],
+      "bg": [
+        "\u0421\u043d\u0438\u043c\u043a\u0430"
+      ],
+      "lt": [
+        "Fotografija"
+      ],
+      "hr": [
+        "Fotografija"
+      ],
+      "lv": [
+        "Fotoatt\u0113ls"
+      ],
+      "fr": [
+        "photographies",
+        "Genre photographique",
+        "Photographie"
+      ],
+      "hu": [
+        "F\u00e9nyk\u00e9p",
+        "Fotogr\u00e1fia jellege"
+      ],
+      "sk": [
+        "Fotograf"
+      ],
+      "sl": [
+        "Fotografija"
+      ],
+      "ga": [
+        "Se\u00e1nra grianghrafad\u00f3ireachta",
+        "Grianghraf"
+      ],
+      "ca": [
+        "G\u00e8nere fotogr\u00e0fic",
+        "Fotografia"
+      ],
+      "sv": [
+        "Fotografi",
+        "Fotografigenre"
+      ],
+      "el": [
+        "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2",
+        "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      ],
+      "mt": [
+        "Fotografija"
+      ],
+      "en": [
+        "Photography genre",
+        "gelatin silver transparencies",
+        "photography (discipline)",
+        "photographs",
+        "Photograph"
+      ],
+      "it": [
+        "fotografie",
+        "fotografia (disciplina)",
+        "Foto",
+        "trasparenze alla gelatina d'argento",
+        "Generi fotografici"
+      ],
+      "es": [
+        "transparencias de plata en gelatina",
+        "G\u00e9nero fotogr\u00e1fico",
+        "fotograf\u00edas (obra visual)",
+        "Fotograf\u00eda"
+      ],
+      "et": [
+        "Foto"
+      ],
+      "cs": [
+        "Fotografick\u00fd \u017e\u00e1nr",
+        "Fotografie"
+      ],
+      "eu": [
+        "Genero fotografiko",
+        "Argazkilaritza"
+      ],
+      "pl": [
+        "Fotografia",
+        "Gatunek fotograficzny"
+      ],
+      "da": [
+        "Fotografisk genre",
+        "Fotografi"
+      ],
+      "ro": [
+        "Fotografie",
+        "Gen fotografic"
+      ],
+      "nl": [
+        "gelatine-zilver transparanten",
+        "foto's",
+        "fotografie",
+        "Fotografiegenre",
+        "Foto"
+      ]
+    },
+    "edmDatasetName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmIsShownBy": [
+      "https://lib.is/IE4893559/stream?quality=LOW"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE4893559%2Fstream%3Fquality%3DLOW&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1910%2F1939"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1910/1939"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1910/1939"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9992117779401488?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9992117779401488",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9992117779401488.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000000362039",
+      "http://data.europeana.eu/organization/1482250000001721054"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "PHOTOCONSORTIUM"
+    ],
+    "rights": [
+      "http://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "score": 89.26604,
+    "timestamp": 1688677271164,
+    "timestamp_created": "2019-10-07T11:00:43.516Z",
+    "timestamp_created_epoch": 1570446043516,
+    "timestamp_update": "2022-05-16T07:59:42.490Z",
+    "timestamp_update_epoch": 1652687982490,
+    "title": [
+      "Ancient Greek pottery. Vase",
+      "Oud-Grieks aardewerk. Vaas"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Belgium"
+    ],
+    "dataProvider": [
+      "Catholic University of Leuven"
+    ],
+    "dcDescription": [
+      "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery.",
+      "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ],
+      "nl": [
+        "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ]
+    },
+    "dcSubjectLangAware": {
+      "nl": [
+        "Attische stijl"
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "Ancient Greek pottery. Vase"
+      ],
+      "nl": [
+        "Oud-Grieks aardewerk. Vaas"
+      ]
+    },
+    "dcTypeLangAware": {
+      "def": [
+        "http://data.europeana.eu/concept/1683",
+        "http://data.europeana.eu/concept/48",
+        "http://vocab.getty.edu/aat/300046300",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300128675"
+      ],
+      "en": [
+        "Photography",
+        "glass slide"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1683",
+      "http://vocab.getty.edu/aat/300128675",
+      "http://vocab.getty.edu/aat/300389795",
+      "http://data.europeana.eu/concept/48",
+      "http://vocab.getty.edu/aat/300046300"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Genre der Fotografie"
+      },
+      {
+        "def": "Gelatinefolie"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "Valokuvaustyyli"
+      },
+      {
+        "def": "Valokuva"
+      },
+      {
+        "def": "Fotografigenre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "fotografias (obras visuais)"
+      },
+      {
+        "def": "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2"
+      },
+      {
+        "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      },
+      {
+        "def": "Photography genre"
+      },
+      {
+        "def": "gelatin silver transparencies"
+      },
+      {
+        "def": "photography (discipline)"
+      },
+      {
+        "def": "Photograph"
+      },
+      {
+        "def": "photographs"
+      },
+      {
+        "def": "Generi fotografici"
+      },
+      {
+        "def": "trasparenze alla gelatina d'argento"
+      },
+      {
+        "def": "fotografia (disciplina)"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Genre photographique"
+      },
+      {
+        "def": "Photographie"
+      },
+      {
+        "def": "photographies"
+      },
+      {
+        "def": "Fotogr\u00e1fia jellege"
+      },
+      {
+        "def": "F\u00e9nyk\u00e9p"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "transparencias de plata en gelatina"
+      },
+      {
+        "def": "Fotograf\u00eda"
+      },
+      {
+        "def": "fotograf\u00edas (obra visual)"
+      },
+      {
+        "def": "Fotografick\u00fd \u017e\u00e1nr"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Genero fotografiko"
+      },
+      {
+        "def": "Argazkilaritza"
+      },
+      {
+        "def": "Se\u00e1nra grianghrafad\u00f3ireachta"
+      },
+      {
+        "def": "Grianghraf"
+      },
+      {
+        "def": "Gatunek fotograficzny"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografisk genre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "Gen fotografic"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "G\u00e8nere fotogr\u00e0fic"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografiegenre"
+      },
+      {
+        "def": "gelatine-zilver transparanten"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "foto's"
+      },
+      {
+        "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotoatt\u0113ls"
+      },
+      {
+        "def": "Fotograf"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Foto"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Gelatinefolie",
+        "Fotografie",
+        "Foto",
+        "Genre der Fotografie"
+      ],
+      "fi": [
+        "Valokuvaustyyli",
+        "Valokuva"
+      ],
+      "ru": [
+        "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      ],
+      "pt": [
+        "G\u00e9nero fotogr\u00e1fico",
+        "Fotografia",
+        "fotografias (obras visuais)"
+      ],
+      "bg": [
+        "\u0421\u043d\u0438\u043c\u043a\u0430"
+      ],
+      "lt": [
+        "Fotografija"
+      ],
+      "hr": [
+        "Fotografija"
+      ],
+      "lv": [
+        "Fotoatt\u0113ls"
+      ],
+      "fr": [
+        "photographies",
+        "Genre photographique",
+        "Photographie"
+      ],
+      "hu": [
+        "F\u00e9nyk\u00e9p",
+        "Fotogr\u00e1fia jellege"
+      ],
+      "sk": [
+        "Fotograf"
+      ],
+      "sl": [
+        "Fotografija"
+      ],
+      "ga": [
+        "Se\u00e1nra grianghrafad\u00f3ireachta",
+        "Grianghraf"
+      ],
+      "ca": [
+        "G\u00e8nere fotogr\u00e0fic",
+        "Fotografia"
+      ],
+      "sv": [
+        "Fotografi",
+        "Fotografigenre"
+      ],
+      "el": [
+        "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2",
+        "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      ],
+      "mt": [
+        "Fotografija"
+      ],
+      "en": [
+        "Photography genre",
+        "gelatin silver transparencies",
+        "photography (discipline)",
+        "photographs",
+        "Photograph"
+      ],
+      "it": [
+        "fotografie",
+        "fotografia (disciplina)",
+        "Foto",
+        "trasparenze alla gelatina d'argento",
+        "Generi fotografici"
+      ],
+      "es": [
+        "transparencias de plata en gelatina",
+        "G\u00e9nero fotogr\u00e1fico",
+        "fotograf\u00edas (obra visual)",
+        "Fotograf\u00eda"
+      ],
+      "et": [
+        "Foto"
+      ],
+      "cs": [
+        "Fotografick\u00fd \u017e\u00e1nr",
+        "Fotografie"
+      ],
+      "eu": [
+        "Genero fotografiko",
+        "Argazkilaritza"
+      ],
+      "pl": [
+        "Fotografia",
+        "Gatunek fotograficzny"
+      ],
+      "da": [
+        "Fotografisk genre",
+        "Fotografi"
+      ],
+      "ro": [
+        "Fotografie",
+        "Gen fotografic"
+      ],
+      "nl": [
+        "gelatine-zilver transparanten",
+        "foto's",
+        "fotografie",
+        "Fotografiegenre",
+        "Foto"
+      ]
+    },
+    "edmDatasetName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmIsShownBy": [
+      "https://lib.is/IE2307510/stream?quality=LOW"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2307510%2Fstream%3Fquality%3DLOW&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1910%2F1939"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1910/1939"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1910/1939"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9988474060101488?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9988474060101488",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9988474060101488.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000000362039",
+      "http://data.europeana.eu/organization/1482250000001721054"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "PHOTOCONSORTIUM"
+    ],
+    "rights": [
+      "http://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "score": 89.01178,
+    "timestamp": 1688677032744,
+    "timestamp_created": "2019-10-07T11:00:43.516Z",
+    "timestamp_created_epoch": 1570446043516,
+    "timestamp_update": "2022-05-16T07:59:42.490Z",
+    "timestamp_update_epoch": 1652687982490,
+    "title": [
+      "Ancient Greek pottery. Vase",
+      "Oud-Grieks aardewerk. Vaas"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 8,
+    "country": [
+      "Germany"
+    ],
+    "dataProvider": [
+      "Deutsche Fotothek"
+    ],
+    "dcCreator": [
+      "Beckmann, ? (Herstellung) (Fotograf)"
+    ],
+    "dcCreatorLangAware": {
+      "zxx": [
+        "Beckmann, ? (Herstellung) (Fotograf)"
+      ]
+    },
+    "dcDescription": [
+      "Zwei Deckelvasen mit Genreszenen und eine Urnenvase mit Opferszene",
+      "aus Glas in schwarzwei\u00df, quer"
+    ],
+    "dcDescriptionLangAware": {
+      "de": [
+        "Zwei Deckelvasen mit Genreszenen und eine Urnenvase mit Opferszene",
+        "aus Glas in schwarzwei\u00df, quer"
+      ]
+    },
+    "dcSubjectLangAware": {
+      "de": [
+        "Porzellan",
+        "Sch\u00e4ferszene",
+        "Pastorale",
+        "Vergoldung"
+      ],
+      "def": [
+        "http://data.europeana.eu/concept/2757",
+        "http://data.europeana.eu/concept/1337",
+        "http://data.europeana.eu/concept/1757"
+      ],
+      "en": [
+        "Porcelain",
+        "Shepherd scene",
+        "Pastoral",
+        "gilding"
+      ]
+    },
+    "dcTitleLangAware": {
+      "de": [
+        "Urnenvase mit Opferszene"
+      ],
+      "en": [
+        "Ancient vase with sacrificial scene"
+      ]
+    },
+    "dcTypeLangAware": {
+      "de": [
+        "[Ohne Angabe]"
+      ],
+      "en": [
+        "[Not specified]"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1337",
+      "http://data.europeana.eu/concept/2757",
+      "http://data.europeana.eu/concept/1757"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Pastorale"
+      },
+      {
+        "def": "Vergolden"
+      },
+      {
+        "def": "Porzellan"
+      },
+      {
+        "def": "Pastoraali"
+      },
+      {
+        "def": "Kultaus"
+      },
+      {
+        "def": "Posliini"
+      },
+      {
+        "def": "\u041f\u0430\u0441\u0442\u043e\u0440\u0430\u043b\u044c"
+      },
+      {
+        "def": "\u0417\u043e\u043b\u043e\u0447\u0435\u043d\u0438\u0435"
+      },
+      {
+        "def": "\u0424\u0430\u0440\u0444\u043e\u0440"
+      },
+      {
+        "def": "Pastoral"
+      },
+      {
+        "def": "Gilding"
+      },
+      {
+        "def": "Porcelain"
+      },
+      {
+        "def": "Pastorale"
+      },
+      {
+        "def": "Doratura"
+      },
+      {
+        "def": "Porcellana"
+      },
+      {
+        "def": "Pastorale"
+      },
+      {
+        "def": "Dorure"
+      },
+      {
+        "def": "Porcelaine"
+      },
+      {
+        "def": "Pasztor\u00e1l"
+      },
+      {
+        "def": "Porcel\u00e1n"
+      },
+      {
+        "def": "Pastorale"
+      },
+      {
+        "def": "Forgyldning"
+      },
+      {
+        "def": "Porcel\u00e6n"
+      },
+      {
+        "def": "Pastoral"
+      },
+      {
+        "def": "Daurat"
+      },
+      {
+        "def": "Porcellana"
+      },
+      {
+        "def": "Pastoral"
+      },
+      {
+        "def": "Dorado"
+      },
+      {
+        "def": "Porcelana"
+      },
+      {
+        "def": "Pastorale"
+      },
+      {
+        "def": "Vergulden"
+      },
+      {
+        "def": "Porselein"
+      },
+      {
+        "def": "F\u00f6rgyllning"
+      },
+      {
+        "def": "Porslin"
+      },
+      {
+        "def": "Doura\u00e7\u00e3o"
+      },
+      {
+        "def": "Porcelana"
+      },
+      {
+        "def": "\u041f\u043e\u0437\u043b\u0430\u0442\u044f\u0432\u0430\u043d\u0435"
+      },
+      {
+        "def": "\u041f\u043e\u0440\u0446\u0435\u043b\u0430\u043d"
+      },
+      {
+        "def": "\u0395\u03c0\u03b9\u03c7\u03c1\u03cd\u03c3\u03c9\u03bc\u03b1"
+      },
+      {
+        "def": "\u03a0\u03bf\u03c1\u03c3\u03b5\u03bb\u03ac\u03bd\u03b7"
+      },
+      {
+        "def": "Pozlata"
+      },
+      {
+        "def": "Porculan"
+      },
+      {
+        "def": "Kuldamine"
+      },
+      {
+        "def": "Portselan"
+      },
+      {
+        "def": "Zlacen\u00ed"
+      },
+      {
+        "def": "Porcel\u00e1n"
+      },
+      {
+        "def": "Pozlatitev"
+      },
+      {
+        "def": "Porcelan"
+      },
+      {
+        "def": "\u00d3r\u00fa"
+      },
+      {
+        "def": "Poirceall\u00e1n"
+      },
+      {
+        "def": "Poz\u0142otnictwo"
+      },
+      {
+        "def": "Porcelana"
+      },
+      {
+        "def": "Porcelianas"
+      },
+      {
+        "def": "Porcel\u0101ns"
+      },
+      {
+        "def": "Porcel\u00e1n"
+      },
+      {
+        "def": "Portzelana"
+      },
+      {
+        "def": "Por\u021belan"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Vergolden",
+        "Pastorale",
+        "Porzellan"
+      ],
+      "fi": [
+        "Posliini",
+        "Pastoraali",
+        "Kultaus"
+      ],
+      "ru": [
+        "\u0424\u0430\u0440\u0444\u043e\u0440",
+        "\u041f\u0430\u0441\u0442\u043e\u0440\u0430\u043b\u044c",
+        "\u0417\u043e\u043b\u043e\u0447\u0435\u043d\u0438\u0435"
+      ],
+      "pt": [
+        "Porcelana",
+        "Doura\u00e7\u00e3o"
+      ],
+      "bg": [
+        "\u041f\u043e\u0440\u0446\u0435\u043b\u0430\u043d",
+        "\u041f\u043e\u0437\u043b\u0430\u0442\u044f\u0432\u0430\u043d\u0435"
+      ],
+      "lt": [
+        "Porcelianas"
+      ],
+      "hr": [
+        "Porculan",
+        "Pozlata"
+      ],
+      "lv": [
+        "Porcel\u0101ns"
+      ],
+      "fr": [
+        "Pastorale",
+        "Porcelaine",
+        "Dorure"
+      ],
+      "hu": [
+        "Porcel\u00e1n",
+        "Pasztor\u00e1l"
+      ],
+      "sk": [
+        "Porcel\u00e1n"
+      ],
+      "sl": [
+        "Porcelan",
+        "Pozlatitev"
+      ],
+      "ga": [
+        "Poirceall\u00e1n",
+        "\u00d3r\u00fa"
+      ],
+      "ca": [
+        "Porcellana",
+        "Daurat",
+        "Pastoral"
+      ],
+      "sv": [
+        "F\u00f6rgyllning",
+        "Porslin"
+      ],
+      "el": [
+        "\u0395\u03c0\u03b9\u03c7\u03c1\u03cd\u03c3\u03c9\u03bc\u03b1",
+        "\u03a0\u03bf\u03c1\u03c3\u03b5\u03bb\u03ac\u03bd\u03b7"
+      ],
+      "en": [
+        "Gilding",
+        "Porcelain",
+        "Pastoral"
+      ],
+      "it": [
+        "Pastorale",
+        "Doratura",
+        "Porcellana"
+      ],
+      "es": [
+        "Porcelana",
+        "Pastoral",
+        "Dorado"
+      ],
+      "et": [
+        "Kuldamine",
+        "Portselan"
+      ],
+      "cs": [
+        "Zlacen\u00ed",
+        "Porcel\u00e1n"
+      ],
+      "eu": [
+        "Portzelana"
+      ],
+      "pl": [
+        "Porcelana",
+        "Poz\u0142otnictwo"
+      ],
+      "da": [
+        "Pastorale",
+        "Forgyldning",
+        "Porcel\u00e6n"
+      ],
+      "ro": [
+        "Por\u021belan"
+      ],
+      "nl": [
+        "Pastorale",
+        "Vergulden",
+        "Porselein"
+      ]
+    },
+    "edmDatasetName": [
+      "188_DDB_SLUB_0"
+    ],
+    "edmIsShownAt": [
+      "http://www.deutschefotothek.de/documents/obj/80766512"
+    ],
+    "edmIsShownBy": [
+      "http://fotothek.slub-dresden.de/fotos/df_hauptkatalog_0320234.jpg"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_hauptkatalog_0320234.jpg&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1905"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1905"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1905"
+      ]
+    },
+    "europeanaCollectionName": [
+      "188_DDB_SLUB_0"
+    ],
+    "europeanaCompleteness": 8,
+    "guid": "https://www.europeana.eu/item/188/item_2CD5CEX2NNHK6WNHJOBGLX6A2YDTKKOX?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/188/item_2CD5CEX2NNHK6WNHJOBGLX6A2YDTKKOX",
+    "index": 0,
+    "language": [
+      "de"
+    ],
+    "link": "https://api.europeana.eu/record/188/item_2CD5CEX2NNHK6WNHJOBGLX6A2YDTKKOX.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000004502115",
+      "http://data.europeana.eu/organization/1482250000004671090"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "German Digital Library"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+    ],
+    "score": 88.421265,
+    "timestamp": 1688567798257,
+    "timestamp_created": "2020-12-16T09:50:12.330Z",
+    "timestamp_created_epoch": 1608112212330,
+    "timestamp_update": "2022-01-27T09:19:05.373Z",
+    "timestamp_update_epoch": 1643275145373,
+    "title": [
+      "Ancient vase with sacrificial scene",
+      "Urnenvase mit Opferszene"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Belgium"
+    ],
+    "dataProvider": [
+      "Catholic University of Leuven"
+    ],
+    "dcDescription": [
+      "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact.",
+      "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact."
+      ],
+      "nl": [
+        "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact."
+      ]
+    },
+    "dcSubjectLangAware": {
+      "nl": [
+        "Attische stijl"
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "Ancient Greek pottery. Vase"
+      ],
+      "nl": [
+        "Oud-Grieks aardewerk. Vaas"
+      ]
+    },
+    "dcTypeLangAware": {
+      "def": [
+        "http://data.europeana.eu/concept/1683",
+        "http://data.europeana.eu/concept/48",
+        "http://vocab.getty.edu/aat/300046300",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300128675"
+      ],
+      "en": [
+        "Photography",
+        "glass slide"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1683",
+      "http://vocab.getty.edu/aat/300128675",
+      "http://vocab.getty.edu/aat/300389795",
+      "http://data.europeana.eu/concept/48",
+      "http://vocab.getty.edu/aat/300046300"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Genre der Fotografie"
+      },
+      {
+        "def": "Gelatinefolie"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "Valokuvaustyyli"
+      },
+      {
+        "def": "Valokuva"
+      },
+      {
+        "def": "Fotografigenre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "fotografias (obras visuais)"
+      },
+      {
+        "def": "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2"
+      },
+      {
+        "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      },
+      {
+        "def": "Photography genre"
+      },
+      {
+        "def": "gelatin silver transparencies"
+      },
+      {
+        "def": "photography (discipline)"
+      },
+      {
+        "def": "Photograph"
+      },
+      {
+        "def": "photographs"
+      },
+      {
+        "def": "Generi fotografici"
+      },
+      {
+        "def": "trasparenze alla gelatina d'argento"
+      },
+      {
+        "def": "fotografia (disciplina)"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Genre photographique"
+      },
+      {
+        "def": "Photographie"
+      },
+      {
+        "def": "photographies"
+      },
+      {
+        "def": "Fotogr\u00e1fia jellege"
+      },
+      {
+        "def": "F\u00e9nyk\u00e9p"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "transparencias de plata en gelatina"
+      },
+      {
+        "def": "Fotograf\u00eda"
+      },
+      {
+        "def": "fotograf\u00edas (obra visual)"
+      },
+      {
+        "def": "Fotografick\u00fd \u017e\u00e1nr"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Genero fotografiko"
+      },
+      {
+        "def": "Argazkilaritza"
+      },
+      {
+        "def": "Se\u00e1nra grianghrafad\u00f3ireachta"
+      },
+      {
+        "def": "Grianghraf"
+      },
+      {
+        "def": "Gatunek fotograficzny"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografisk genre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "Gen fotografic"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "G\u00e8nere fotogr\u00e0fic"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografiegenre"
+      },
+      {
+        "def": "gelatine-zilver transparanten"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "foto's"
+      },
+      {
+        "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotoatt\u0113ls"
+      },
+      {
+        "def": "Fotograf"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Foto"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Gelatinefolie",
+        "Fotografie",
+        "Foto",
+        "Genre der Fotografie"
+      ],
+      "fi": [
+        "Valokuvaustyyli",
+        "Valokuva"
+      ],
+      "ru": [
+        "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      ],
+      "pt": [
+        "G\u00e9nero fotogr\u00e1fico",
+        "Fotografia",
+        "fotografias (obras visuais)"
+      ],
+      "bg": [
+        "\u0421\u043d\u0438\u043c\u043a\u0430"
+      ],
+      "lt": [
+        "Fotografija"
+      ],
+      "hr": [
+        "Fotografija"
+      ],
+      "lv": [
+        "Fotoatt\u0113ls"
+      ],
+      "fr": [
+        "photographies",
+        "Genre photographique",
+        "Photographie"
+      ],
+      "hu": [
+        "F\u00e9nyk\u00e9p",
+        "Fotogr\u00e1fia jellege"
+      ],
+      "sk": [
+        "Fotograf"
+      ],
+      "sl": [
+        "Fotografija"
+      ],
+      "ga": [
+        "Se\u00e1nra grianghrafad\u00f3ireachta",
+        "Grianghraf"
+      ],
+      "ca": [
+        "G\u00e8nere fotogr\u00e0fic",
+        "Fotografia"
+      ],
+      "sv": [
+        "Fotografi",
+        "Fotografigenre"
+      ],
+      "el": [
+        "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2",
+        "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      ],
+      "mt": [
+        "Fotografija"
+      ],
+      "en": [
+        "Photography genre",
+        "gelatin silver transparencies",
+        "photography (discipline)",
+        "photographs",
+        "Photograph"
+      ],
+      "it": [
+        "fotografie",
+        "fotografia (disciplina)",
+        "Foto",
+        "trasparenze alla gelatina d'argento",
+        "Generi fotografici"
+      ],
+      "es": [
+        "transparencias de plata en gelatina",
+        "G\u00e9nero fotogr\u00e1fico",
+        "fotograf\u00edas (obra visual)",
+        "Fotograf\u00eda"
+      ],
+      "et": [
+        "Foto"
+      ],
+      "cs": [
+        "Fotografick\u00fd \u017e\u00e1nr",
+        "Fotografie"
+      ],
+      "eu": [
+        "Genero fotografiko",
+        "Argazkilaritza"
+      ],
+      "pl": [
+        "Fotografia",
+        "Gatunek fotograficzny"
+      ],
+      "da": [
+        "Fotografisk genre",
+        "Fotografi"
+      ],
+      "ro": [
+        "Fotografie",
+        "Gen fotografic"
+      ],
+      "nl": [
+        "gelatine-zilver transparanten",
+        "foto's",
+        "fotografie",
+        "Fotografiegenre",
+        "Foto"
+      ]
+    },
+    "edmDatasetName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmIsShownBy": [
+      "https://lib.is/IE2307055/stream?quality=LOW"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2307055%2Fstream%3Fquality%3DLOW&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1910%2F1939"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1910/1939"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1910/1939"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9988453300101488?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9988453300101488",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9988453300101488.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000000362039",
+      "http://data.europeana.eu/organization/1482250000001721054"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "PHOTOCONSORTIUM"
+    ],
+    "rights": [
+      "http://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "score": 88.03334,
+    "timestamp": 1688677031457,
+    "timestamp_created": "2019-10-07T11:00:43.516Z",
+    "timestamp_created_epoch": 1570446043516,
+    "timestamp_update": "2022-05-16T07:59:42.490Z",
+    "timestamp_update_epoch": 1652687982490,
+    "title": [
+      "Ancient Greek pottery. Vase",
+      "Oud-Grieks aardewerk. Vaas"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Belgium"
+    ],
+    "dataProvider": [
+      "Catholic University of Leuven"
+    ],
+    "dcDescription": [
+      "KU Leuven. Glasdia's kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Griekse kunst. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact.",
+      "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Greek art. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Greek art. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact."
+      ],
+      "nl": [
+        "KU Leuven. Glasdia's kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Griekse kunst. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact."
+      ]
+    },
+    "dcSubjectLangAware": {
+      "nl": [
+        "Griekse kunst"
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "Ancient Greek pottery. Dipylon vase"
+      ],
+      "nl": [
+        "Oud-Grieks aardewerk. Dipylonvaas"
+      ]
+    },
+    "dcTypeLangAware": {
+      "def": [
+        "http://data.europeana.eu/concept/1683",
+        "http://data.europeana.eu/concept/48",
+        "http://vocab.getty.edu/aat/300046300",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300128675"
+      ],
+      "en": [
+        "Photography",
+        "glass slide"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1683",
+      "http://vocab.getty.edu/aat/300128675",
+      "http://vocab.getty.edu/aat/300389795",
+      "http://data.europeana.eu/concept/48",
+      "http://vocab.getty.edu/aat/300046300"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Genre der Fotografie"
+      },
+      {
+        "def": "Gelatinefolie"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "Valokuvaustyyli"
+      },
+      {
+        "def": "Valokuva"
+      },
+      {
+        "def": "Fotografigenre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "fotografias (obras visuais)"
+      },
+      {
+        "def": "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2"
+      },
+      {
+        "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      },
+      {
+        "def": "Photography genre"
+      },
+      {
+        "def": "gelatin silver transparencies"
+      },
+      {
+        "def": "photography (discipline)"
+      },
+      {
+        "def": "Photograph"
+      },
+      {
+        "def": "photographs"
+      },
+      {
+        "def": "Generi fotografici"
+      },
+      {
+        "def": "trasparenze alla gelatina d'argento"
+      },
+      {
+        "def": "fotografia (disciplina)"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Genre photographique"
+      },
+      {
+        "def": "Photographie"
+      },
+      {
+        "def": "photographies"
+      },
+      {
+        "def": "Fotogr\u00e1fia jellege"
+      },
+      {
+        "def": "F\u00e9nyk\u00e9p"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "transparencias de plata en gelatina"
+      },
+      {
+        "def": "Fotograf\u00eda"
+      },
+      {
+        "def": "fotograf\u00edas (obra visual)"
+      },
+      {
+        "def": "Fotografick\u00fd \u017e\u00e1nr"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Genero fotografiko"
+      },
+      {
+        "def": "Argazkilaritza"
+      },
+      {
+        "def": "Se\u00e1nra grianghrafad\u00f3ireachta"
+      },
+      {
+        "def": "Grianghraf"
+      },
+      {
+        "def": "Gatunek fotograficzny"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografisk genre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "Gen fotografic"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "G\u00e8nere fotogr\u00e0fic"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografiegenre"
+      },
+      {
+        "def": "gelatine-zilver transparanten"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "foto's"
+      },
+      {
+        "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotoatt\u0113ls"
+      },
+      {
+        "def": "Fotograf"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Foto"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Gelatinefolie",
+        "Fotografie",
+        "Foto",
+        "Genre der Fotografie"
+      ],
+      "fi": [
+        "Valokuvaustyyli",
+        "Valokuva"
+      ],
+      "ru": [
+        "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      ],
+      "pt": [
+        "G\u00e9nero fotogr\u00e1fico",
+        "Fotografia",
+        "fotografias (obras visuais)"
+      ],
+      "bg": [
+        "\u0421\u043d\u0438\u043c\u043a\u0430"
+      ],
+      "lt": [
+        "Fotografija"
+      ],
+      "hr": [
+        "Fotografija"
+      ],
+      "lv": [
+        "Fotoatt\u0113ls"
+      ],
+      "fr": [
+        "photographies",
+        "Genre photographique",
+        "Photographie"
+      ],
+      "hu": [
+        "F\u00e9nyk\u00e9p",
+        "Fotogr\u00e1fia jellege"
+      ],
+      "sk": [
+        "Fotograf"
+      ],
+      "sl": [
+        "Fotografija"
+      ],
+      "ga": [
+        "Se\u00e1nra grianghrafad\u00f3ireachta",
+        "Grianghraf"
+      ],
+      "ca": [
+        "G\u00e8nere fotogr\u00e0fic",
+        "Fotografia"
+      ],
+      "sv": [
+        "Fotografi",
+        "Fotografigenre"
+      ],
+      "el": [
+        "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2",
+        "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      ],
+      "mt": [
+        "Fotografija"
+      ],
+      "en": [
+        "Photography genre",
+        "gelatin silver transparencies",
+        "photography (discipline)",
+        "photographs",
+        "Photograph"
+      ],
+      "it": [
+        "fotografie",
+        "fotografia (disciplina)",
+        "Foto",
+        "trasparenze alla gelatina d'argento",
+        "Generi fotografici"
+      ],
+      "es": [
+        "transparencias de plata en gelatina",
+        "G\u00e9nero fotogr\u00e1fico",
+        "fotograf\u00edas (obra visual)",
+        "Fotograf\u00eda"
+      ],
+      "et": [
+        "Foto"
+      ],
+      "cs": [
+        "Fotografick\u00fd \u017e\u00e1nr",
+        "Fotografie"
+      ],
+      "eu": [
+        "Genero fotografiko",
+        "Argazkilaritza"
+      ],
+      "pl": [
+        "Fotografia",
+        "Gatunek fotograficzny"
+      ],
+      "da": [
+        "Fotografisk genre",
+        "Fotografi"
+      ],
+      "ro": [
+        "Fotografie",
+        "Gen fotografic"
+      ],
+      "nl": [
+        "gelatine-zilver transparanten",
+        "foto's",
+        "fotografie",
+        "Fotografiegenre",
+        "Foto"
+      ]
+    },
+    "edmDatasetName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmIsShownBy": [
+      "https://lib.is/IE2285670/stream?quality=LOW"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2285670%2Fstream%3Fquality%3DLOW&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1910%2F1939"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1910/1939"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1910/1939"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9985241820101488?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9985241820101488",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9985241820101488.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000000362039",
+      "http://data.europeana.eu/organization/1482250000001721054"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "PHOTOCONSORTIUM"
+    ],
+    "rights": [
+      "http://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "score": 84.74118,
+    "timestamp": 1688676996056,
+    "timestamp_created": "2019-10-07T11:00:43.516Z",
+    "timestamp_created_epoch": 1570446043516,
+    "timestamp_update": "2022-05-16T07:59:42.490Z",
+    "timestamp_update_epoch": 1652687982490,
+    "title": [
+      "Oud-Grieks aardewerk. Dipylonvaas",
+      "Ancient Greek pottery. Dipylon vase"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Germany"
+    ],
+    "dataProvider": [
+      "Digital Art and Culture Archive D\u00fcsseldorf"
+    ],
+    "dcCreator": [
+      "http://partage.vocnet.org/part-wer20350020",
+      "http://partage.vocnet.org/part-kue20350196",
+      "Haagsche Plateelbakkerij Rozenburg",
+      "Jurriaan Kok, J."
+    ],
+    "dcCreatorLangAware": {
+      "def": [
+        "http://partage.vocnet.org/part-wer20350020",
+        "http://partage.vocnet.org/part-kue20350196"
+      ],
+      "en": [
+        "Haagsche Plateelbakkerij Rozenburg",
+        "Jurriaan Kok, J."
+      ]
+    },
+    "dcDescription": [
+      "Vase, Haagsche Platellbakkerij Rozenburg, egg shell porcelain, the Netherlands, 1900",
+      "Stangenf\u00f6rmig; \u00dcber fast quadratischem Grundri\u00df vier geschwungene Seiten mit mittlerem Grad und leicht aufgebogener Lippe; Im oberen Teil jeder Seite aufgerollte gr\u00fcne Schlange mit gelbem tigerartigem Kopf und weitschwingendes rotbraunes Ornament; Aufglasurbemalung;",
+      "Vase, Haagsche Platellbakkerij Rozenburg, Eierschalenporzellan, Niederlande, 1900"
+    ],
+    "dcDescriptionLangAware": {
+      "de": [
+        "Stangenf\u00f6rmig; \u00dcber fast quadratischem Grundri\u00df vier geschwungene Seiten mit mittlerem Grad und leicht aufgebogener Lippe; Im oberen Teil jeder Seite aufgerollte gr\u00fcne Schlange mit gelbem tigerartigem Kopf und weitschwingendes rotbraunes Ornament; Aufglasurbemalung;",
+        "Vase, Haagsche Platellbakkerij Rozenburg, Eierschalenporzellan, Niederlande, 1900"
+      ],
+      "en": [
+        "Vase, Haagsche Platellbakkerij Rozenburg, egg shell porcelain, the Netherlands, 1900"
+      ]
+    },
+    "dcTitleLangAware": {
+      "de": [
+        "Kantige Balustervase mit Phantasietier"
+      ],
+      "en": [
+        "Ancient baluster vase with fantasy animal"
+      ]
+    },
+    "dcTypeLangAware": {
+      "de": [
+        "Keramik (Objekt)",
+        "Vase",
+        "Keramik",
+        "Angewandte Kunst / Kunstgewerbe",
+        "Jugendstil"
+      ],
+      "def": [
+        "http://data.europeana.eu/concept/31",
+        "http://data.europeana.eu/concept/96",
+        "http://partage.vocnet.org/part00064",
+        "http://vocab.getty.edu/aat/300151343",
+        "http://partage.vocnet.org/part00326",
+        "http://d-nb.info/gnd/4030270-2",
+        "http://partage.vocnet.org/part00365"
+      ],
+      "en": [
+        "Ceramic (object)",
+        "Vase",
+        "ceramic",
+        "Applied Arts/Arts"
+      ]
+    },
+    "dctermsSpatial": [
+      "Den Haag",
+      "Den Haag"
+    ],
+    "edmAgent": [
+      "http://partage.vocnet.org/part-kue20350196",
+      "http://partage.vocnet.org/part-wer20350020"
+    ],
+    "edmAgentLabel": [
+      {
+        "def": "Jurriaan Kok, J."
+      },
+      {
+        "def": "Haagsche Plateelbakkerij Rozenburg"
+      }
+    ],
+    "edmAgentLabelLangAware": {
+      "en": [
+        "Jurriaan Kok, J.",
+        "Haagsche Plateelbakkerij Rozenburg"
+      ]
+    },
+    "edmConcept": [
+      "http://d-nb.info/gnd/4030270-2",
+      "http://partage.vocnet.org/part00664",
+      "http://data.europeana.eu/concept/31",
+      "http://data.europeana.eu/concept/96",
+      "http://partage.vocnet.org/part00365",
+      "http://partage.vocnet.org/part00660",
+      "http://partage.vocnet.org/part00064",
+      "http://partage.vocnet.org/part00326",
+      "http://partage.vocnet.org/part00237"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Keramik"
+      },
+      {
+        "def": "Malerei (k\u00fcnstlerische Technik)"
+      },
+      {
+        "def": "Keramik"
+      },
+      {
+        "def": "Jugendstil"
+      },
+      {
+        "def": "Pressen (Verformen)"
+      },
+      {
+        "def": "Keramik (Objekt)"
+      },
+      {
+        "def": "Vase"
+      },
+      {
+        "def": "Porzellan (Material)"
+      },
+      {
+        "def": "maleri (skaping av bilde)"
+      },
+      {
+        "def": "st\u00f8ping (forming)"
+      },
+      {
+        "def": "keramikk"
+      },
+      {
+        "def": "vase"
+      },
+      {
+        "def": "porselen (materiale)"
+      },
+      {
+        "def": "m\u00e5leri (bildskapande)"
+      },
+      {
+        "def": "Keramik"
+      },
+      {
+        "def": "Jugend"
+      },
+      {
+        "def": "gjuta (process)"
+      },
+      {
+        "def": "keramik"
+      },
+      {
+        "def": "vas"
+      },
+      {
+        "def": "porslin"
+      },
+      {
+        "def": "maalaus"
+      },
+      {
+        "def": "Keraami"
+      },
+      {
+        "def": "Jugend"
+      },
+      {
+        "def": "muovailu"
+      },
+      {
+        "def": "keramiikka"
+      },
+      {
+        "def": "maljakot"
+      },
+      {
+        "def": "posliini"
+      },
+      {
+        "def": "pintar"
+      },
+      {
+        "def": "Cer\u00e2mica"
+      },
+      {
+        "def": "Arte Nova"
+      },
+      {
+        "def": "moldar"
+      },
+      {
+        "def": "cer\u00e2mica"
+      },
+      {
+        "def": "vaso"
+      },
+      {
+        "def": "porcelana (material)"
+      },
+      {
+        "def": "painting (image-making)"
+      },
+      {
+        "def": "Ceramic"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "moulding (forming)"
+      },
+      {
+        "def": "ceramics (objects)"
+      },
+      {
+        "def": "vases"
+      },
+      {
+        "def": "porcelain (material)"
+      },
+      {
+        "def": "slikanje"
+      },
+      {
+        "def": "Keramika"
+      },
+      {
+        "def": "Secesija"
+      },
+      {
+        "def": "oblikovanje kalupom"
+      },
+      {
+        "def": "keramika"
+      },
+      {
+        "def": "vaza"
+      },
+      {
+        "def": "porculan"
+      },
+      {
+        "def": "\u041a\u0435\u0440\u0430\u043c\u0438\u043a\u0430"
+      },
+      {
+        "def": "\u041c\u043e\u0434\u0435\u0440\u043d"
+      },
+      {
+        "def": "\u041a\u0435\u0440\u0430\u043c\u0438\u043a\u0430"
+      },
+      {
+        "def": "\u0410\u0440 \u043d\u0443\u0432\u043e"
+      },
+      {
+        "def": "Keramika"
+      },
+      {
+        "def": "Moderno architekt\u016bra"
+      },
+      {
+        "def": "Keramika"
+      },
+      {
+        "def": "J\u016bgendstils"
+      },
+      {
+        "def": "C\u00e9ramique"
+      },
+      {
+        "def": "Art nouveau"
+      },
+      {
+        "def": "moulage"
+      },
+      {
+        "def": "c\u00e9ramique"
+      },
+      {
+        "def": "vase"
+      },
+      {
+        "def": "porcelaine (mat\u00e9riau c\u00e9ramique)"
+      },
+      {
+        "def": "Ker\u00e1mia"
+      },
+      {
+        "def": "Szecesszi\u00f3"
+      },
+      {
+        "def": "ker\u00e1mia"
+      },
+      {
+        "def": "v\u00e1za (ed\u00e9ny a vir\u00e1gok)"
+      },
+      {
+        "def": "porcel\u00e1n"
+      },
+      {
+        "def": "Keramika"
+      },
+      {
+        "def": "Secesia"
+      },
+      {
+        "def": "Keramika"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "keramika"
+      },
+      {
+        "def": "vaza (posuda za ro\u017ee)"
+      },
+      {
+        "def": "porcelan"
+      },
+      {
+        "def": "Ceirmeacht"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "Cer\u00e0mica"
+      },
+      {
+        "def": "Modernisme"
+      },
+      {
+        "def": "emmotllament (proc\u00e9s)"
+      },
+      {
+        "def": "cer\u00e0mica"
+      },
+      {
+        "def": "gerro"
+      },
+      {
+        "def": "porcellana (material)"
+      },
+      {
+        "def": "\u039a\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u03ae"
+      },
+      {
+        "def": "\u0391\u03c1 \u039d\u03bf\u03c5\u03b2\u03cc"
+      },
+      {
+        "def": "Ceramica"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "modellatura (processo)"
+      },
+      {
+        "def": "ceramica"
+      },
+      {
+        "def": "vasi"
+      },
+      {
+        "def": "porcellana (materiale)"
+      },
+      {
+        "def": "Cer\u00e1mica"
+      },
+      {
+        "def": "Modernismo"
+      },
+      {
+        "def": "moldeado (proceso)"
+      },
+      {
+        "def": "cer\u00e1mica"
+      },
+      {
+        "def": "jarr\u00f3n"
+      },
+      {
+        "def": "porcelana (material)"
+      },
+      {
+        "def": "Keraamika"
+      },
+      {
+        "def": "Juugend"
+      },
+      {
+        "def": "Keramika"
+      },
+      {
+        "def": "Secese"
+      },
+      {
+        "def": "tvarov\u00e1n\u00ed do formy"
+      },
+      {
+        "def": "keramika"
+      },
+      {
+        "def": "v\u00e1za"
+      },
+      {
+        "def": "porcel\u00e1n"
+      },
+      {
+        "def": "Zeramika"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "Ceramika"
+      },
+      {
+        "def": "Secesja"
+      },
+      {
+        "def": "prasowanie (kszta\u0142towanie)"
+      },
+      {
+        "def": "ceramika"
+      },
+      {
+        "def": "wazon"
+      },
+      {
+        "def": "porcelana (materia\u0142 ceramiczny)"
+      },
+      {
+        "def": "Ceramic\u0103"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "Keramik"
+      },
+      {
+        "def": "Jugendstil"
+      },
+      {
+        "def": "Keramiek"
+      },
+      {
+        "def": "Art Nouveau"
+      },
+      {
+        "def": "modelleren (mal)"
+      },
+      {
+        "def": "keramiek"
+      },
+      {
+        "def": "vazen"
+      },
+      {
+        "def": "porselein"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Vase",
+        "Keramik (Objekt)",
+        "Malerei (k\u00fcnstlerische Technik)",
+        "Keramik",
+        "Pressen (Verformen)",
+        "Porzellan (Material)",
+        "Jugendstil"
+      ],
+      "no": [
+        "keramikk",
+        "maleri (skaping av bilde)",
+        "st\u00f8ping (forming)",
+        "vase",
+        "porselen (materiale)"
+      ],
+      "fi": [
+        "keramiikka",
+        "Keraami",
+        "posliini",
+        "maalaus",
+        "Jugend",
+        "maljakot",
+        "muovailu"
+      ],
+      "ru": [
+        "\u041c\u043e\u0434\u0435\u0440\u043d",
+        "\u041a\u0435\u0440\u0430\u043c\u0438\u043a\u0430"
+      ],
+      "def": [
+        "Keramik"
+      ],
+      "pt": [
+        "Arte Nova",
+        "vaso",
+        "moldar",
+        "pintar",
+        "cer\u00e2mica",
+        "Cer\u00e2mica",
+        "porcelana (material)"
+      ],
+      "bg": [
+        "\u0410\u0440 \u043d\u0443\u0432\u043e",
+        "\u041a\u0435\u0440\u0430\u043c\u0438\u043a\u0430"
+      ],
+      "lt": [
+        "Moderno architekt\u016bra",
+        "Keramika"
+      ],
+      "hr": [
+        "slikanje",
+        "vaza",
+        "Secesija",
+        "Keramika",
+        "porculan",
+        "oblikovanje kalupom",
+        "keramika"
+      ],
+      "lv": [
+        "J\u016bgendstils",
+        "Keramika"
+      ],
+      "fr": [
+        "moulage",
+        "Art nouveau",
+        "c\u00e9ramique",
+        "C\u00e9ramique",
+        "vase",
+        "porcelaine (mat\u00e9riau c\u00e9ramique)"
+      ],
+      "hu": [
+        "Szecesszi\u00f3",
+        "v\u00e1za (ed\u00e9ny a vir\u00e1gok)",
+        "porcel\u00e1n",
+        "Ker\u00e1mia",
+        "ker\u00e1mia"
+      ],
+      "sk": [
+        "Secesia",
+        "Keramika"
+      ],
+      "sl": [
+        "vaza (posuda za ro\u017ee)",
+        "porcelan",
+        "Keramika",
+        "keramika",
+        "Art Nouveau"
+      ],
+      "ga": [
+        "Ceirmeacht",
+        "Art Nouveau"
+      ],
+      "ca": [
+        "cer\u00e0mica",
+        "porcellana (material)",
+        "Modernisme",
+        "gerro",
+        "Cer\u00e0mica",
+        "emmotllament (proc\u00e9s)"
+      ],
+      "sv": [
+        "m\u00e5leri (bildskapande)",
+        "porslin",
+        "Keramik",
+        "Jugend",
+        "vas",
+        "gjuta (process)",
+        "keramik"
+      ],
+      "el": [
+        "\u039a\u03b5\u03c1\u03b1\u03bc\u03b9\u03ba\u03ae",
+        "\u0391\u03c1 \u039d\u03bf\u03c5\u03b2\u03cc"
+      ],
+      "en": [
+        "porcelain (material)",
+        "moulding (forming)",
+        "Ceramic",
+        "vases",
+        "ceramics (objects)",
+        "painting (image-making)",
+        "Art Nouveau"
+      ],
+      "it": [
+        "vasi",
+        "ceramica",
+        "Ceramica",
+        "modellatura (processo)",
+        "porcellana (materiale)",
+        "Art Nouveau"
+      ],
+      "es": [
+        "Cer\u00e1mica",
+        "moldeado (proceso)",
+        "cer\u00e1mica",
+        "jarr\u00f3n",
+        "Modernismo",
+        "porcelana (material)"
+      ],
+      "et": [
+        "Keraamika",
+        "Juugend"
+      ],
+      "cs": [
+        "tvarov\u00e1n\u00ed do formy",
+        "Secese",
+        "porcel\u00e1n",
+        "v\u00e1za",
+        "Keramika",
+        "keramika"
+      ],
+      "eu": [
+        "Zeramika",
+        "Art Nouveau"
+      ],
+      "pl": [
+        "porcelana (materia\u0142 ceramiczny)",
+        "Ceramika",
+        "wazon",
+        "Secesja",
+        "prasowanie (kszta\u0142towanie)",
+        "ceramika"
+      ],
+      "ro": [
+        "Ceramic\u0103",
+        "Art Nouveau"
+      ],
+      "da": [
+        "Keramik",
+        "Jugendstil"
+      ],
+      "nl": [
+        "vazen",
+        "Keramiek",
+        "modelleren (mal)",
+        "porselein",
+        "keramiek",
+        "Art Nouveau"
+      ]
+    },
+    "edmDatasetName": [
+      "2026126_Ag_EU_PartagePlus_1039"
+    ],
+    "edmIsShownAt": [
+      "http://www.duesseldorf.de/dkult/DE-MUS-037918/208104"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fduesseldorf.emuseum.net%2Fmedia%2Ffull%2FHM.2002-46_PP.jpg&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "http://semium.org/time/AD2xxx",
+      "http://semium.org/time/Time",
+      "#1898",
+      "http://semium.org/time/ChronologicalPeriod"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "Second millenium AD"
+      },
+      {
+        "def": "Second millenium AD, years 1001-2000"
+      },
+      {
+        "def": "Time"
+      },
+      {
+        "def": "Chronological period"
+      },
+      {
+        "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+      },
+      {
+        "def": "1898"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "en": [
+        "Second millenium AD",
+        "Second millenium AD, years 1001-2000",
+        "Time",
+        "Chronological period"
+      ],
+      "zxx": [
+        "1898"
+      ],
+      "fr": [
+        "2e mill\u00e9naire apr\u00e8s J.-C."
+      ]
+    },
+    "europeanaCollectionName": [
+      "2026126_Ag_EU_PartagePlus_1039"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2026126/Partage_Plus_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_208104?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2026126/Partage_Plus_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_208104",
+    "index": 0,
+    "language": [
+      "de"
+    ],
+    "link": "https://api.europeana.eu/record/2026126/Partage_Plus_ProvidedCHO_Digitales_Kunst__und_Kulturarchiv_D_sseldorf_208104.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000004502139",
+      "http://data.europeana.eu/organization/1482250000004671152"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "Partage Plus"
+    ],
+    "rights": [
+      "http://rightsstatements.org/vocab/InC/1.0/"
+    ],
+    "score": 83.029465,
+    "timestamp": 1688702065655,
+    "timestamp_created": "2014-01-29T14:25:06.273Z",
+    "timestamp_created_epoch": 1391005506273,
+    "timestamp_update": "2014-05-06T15:19:10.559Z",
+    "timestamp_update_epoch": 1399389550559,
+    "title": [
+      "Ancient baluster vase with fantasy animal",
+      "Kantige Balustervase mit Phantasietier"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ],
+    "year": [
+      "1898"
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Belgium"
+    ],
+    "dataProvider": [
+      "Catholic University of Leuven"
+    ],
+    "dcDescription": [
+      "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery.",
+      "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ],
+      "nl": [
+        "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ]
+    },
+    "dcSubjectLangAware": {
+      "nl": [
+        "Attische stijl"
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "Ancient Greek pottery. Vase game"
+      ],
+      "nl": [
+        "Oud-Grieks aardewerk. Vaas Spel"
+      ]
+    },
+    "dcTypeLangAware": {
+      "def": [
+        "http://data.europeana.eu/concept/1683",
+        "http://data.europeana.eu/concept/48",
+        "http://vocab.getty.edu/aat/300046300",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300128675"
+      ],
+      "en": [
+        "Photography",
+        "glass slide"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1683",
+      "http://vocab.getty.edu/aat/300128675",
+      "http://vocab.getty.edu/aat/300389795",
+      "http://data.europeana.eu/concept/48",
+      "http://vocab.getty.edu/aat/300046300"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Genre der Fotografie"
+      },
+      {
+        "def": "Gelatinefolie"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "Valokuvaustyyli"
+      },
+      {
+        "def": "Valokuva"
+      },
+      {
+        "def": "Fotografigenre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "fotografias (obras visuais)"
+      },
+      {
+        "def": "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2"
+      },
+      {
+        "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      },
+      {
+        "def": "Photography genre"
+      },
+      {
+        "def": "gelatin silver transparencies"
+      },
+      {
+        "def": "photography (discipline)"
+      },
+      {
+        "def": "Photograph"
+      },
+      {
+        "def": "photographs"
+      },
+      {
+        "def": "Generi fotografici"
+      },
+      {
+        "def": "trasparenze alla gelatina d'argento"
+      },
+      {
+        "def": "fotografia (disciplina)"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Genre photographique"
+      },
+      {
+        "def": "Photographie"
+      },
+      {
+        "def": "photographies"
+      },
+      {
+        "def": "Fotogr\u00e1fia jellege"
+      },
+      {
+        "def": "F\u00e9nyk\u00e9p"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "transparencias de plata en gelatina"
+      },
+      {
+        "def": "Fotograf\u00eda"
+      },
+      {
+        "def": "fotograf\u00edas (obra visual)"
+      },
+      {
+        "def": "Fotografick\u00fd \u017e\u00e1nr"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Genero fotografiko"
+      },
+      {
+        "def": "Argazkilaritza"
+      },
+      {
+        "def": "Se\u00e1nra grianghrafad\u00f3ireachta"
+      },
+      {
+        "def": "Grianghraf"
+      },
+      {
+        "def": "Gatunek fotograficzny"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografisk genre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "Gen fotografic"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "G\u00e8nere fotogr\u00e0fic"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografiegenre"
+      },
+      {
+        "def": "gelatine-zilver transparanten"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "foto's"
+      },
+      {
+        "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotoatt\u0113ls"
+      },
+      {
+        "def": "Fotograf"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Foto"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Gelatinefolie",
+        "Fotografie",
+        "Foto",
+        "Genre der Fotografie"
+      ],
+      "fi": [
+        "Valokuvaustyyli",
+        "Valokuva"
+      ],
+      "ru": [
+        "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      ],
+      "pt": [
+        "G\u00e9nero fotogr\u00e1fico",
+        "Fotografia",
+        "fotografias (obras visuais)"
+      ],
+      "bg": [
+        "\u0421\u043d\u0438\u043c\u043a\u0430"
+      ],
+      "lt": [
+        "Fotografija"
+      ],
+      "hr": [
+        "Fotografija"
+      ],
+      "lv": [
+        "Fotoatt\u0113ls"
+      ],
+      "fr": [
+        "photographies",
+        "Genre photographique",
+        "Photographie"
+      ],
+      "hu": [
+        "F\u00e9nyk\u00e9p",
+        "Fotogr\u00e1fia jellege"
+      ],
+      "sk": [
+        "Fotograf"
+      ],
+      "sl": [
+        "Fotografija"
+      ],
+      "ga": [
+        "Se\u00e1nra grianghrafad\u00f3ireachta",
+        "Grianghraf"
+      ],
+      "ca": [
+        "G\u00e8nere fotogr\u00e0fic",
+        "Fotografia"
+      ],
+      "sv": [
+        "Fotografi",
+        "Fotografigenre"
+      ],
+      "el": [
+        "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2",
+        "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      ],
+      "mt": [
+        "Fotografija"
+      ],
+      "en": [
+        "Photography genre",
+        "gelatin silver transparencies",
+        "photography (discipline)",
+        "photographs",
+        "Photograph"
+      ],
+      "it": [
+        "fotografie",
+        "fotografia (disciplina)",
+        "Foto",
+        "trasparenze alla gelatina d'argento",
+        "Generi fotografici"
+      ],
+      "es": [
+        "transparencias de plata en gelatina",
+        "G\u00e9nero fotogr\u00e1fico",
+        "fotograf\u00edas (obra visual)",
+        "Fotograf\u00eda"
+      ],
+      "et": [
+        "Foto"
+      ],
+      "cs": [
+        "Fotografick\u00fd \u017e\u00e1nr",
+        "Fotografie"
+      ],
+      "eu": [
+        "Genero fotografiko",
+        "Argazkilaritza"
+      ],
+      "pl": [
+        "Fotografia",
+        "Gatunek fotograficzny"
+      ],
+      "da": [
+        "Fotografisk genre",
+        "Fotografi"
+      ],
+      "ro": [
+        "Fotografie",
+        "Gen fotografic"
+      ],
+      "nl": [
+        "gelatine-zilver transparanten",
+        "foto's",
+        "fotografie",
+        "Fotografiegenre",
+        "Foto"
+      ]
+    },
+    "edmDatasetName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmIsShownBy": [
+      "https://lib.is/IE2307559/stream?quality=LOW"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2307559%2Fstream%3Fquality%3DLOW&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1910%2F1939"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1910/1939"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1910/1939"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9988474290101488?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9988474290101488",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9988474290101488.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000000362039",
+      "http://data.europeana.eu/organization/1482250000001721054"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "PHOTOCONSORTIUM"
+    ],
+    "rights": [
+      "http://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "score": 82.75613,
+    "timestamp": 1688677032148,
+    "timestamp_created": "2019-10-07T11:00:43.516Z",
+    "timestamp_created_epoch": 1570446043516,
+    "timestamp_update": "2022-05-16T07:59:42.490Z",
+    "timestamp_update_epoch": 1652687982490,
+    "title": [
+      "Ancient Greek pottery. Vase game",
+      "Oud-Grieks aardewerk. Vaas Spel"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  },
+  {
+    "completeness": 10,
+    "country": [
+      "Belgium"
+    ],
+    "dataProvider": [
+      "Catholic University of Leuven"
+    ],
+    "dcDescription": [
+      "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery.",
+      "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+    ],
+    "dcDescriptionLangAware": {
+      "en": [
+        "KU Leuven. Glass slides art history. Universit\u00e9 de Louvain, between 1839 and 1939. Photographer unknown. Added information on slide. Currents/Style: Attic style. Technique/Material: Ceramics. EuroPhot. Archaeology. Antiquity. Artifact. Pottery. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ],
+      "nl": [
+        "KU Leuven. Glasdia\u2019s kunstgeschiedenis. Universit\u00e9 de Louvain, tussen 1839 en 1939. Fotograaf onbekend. Toegevoegde informatie op dia. Stroming/Stijl: Attische stijl. Techniek/Materiaal: Keramiek. EuroPhot. Archeologie. Oudheid. Artefact. Aardewerk. EuroPhot. Archaeology. Ancient. Artifact. Pottery."
+      ]
+    },
+    "dcSubjectLangAware": {
+      "nl": [
+        "Attische stijl"
+      ]
+    },
+    "dcTitleLangAware": {
+      "en": [
+        "Ancient Greek pottery. Vase Symposion"
+      ],
+      "nl": [
+        "Oud-Grieks aardewerk. Vaas Symposion"
+      ]
+    },
+    "dcTypeLangAware": {
+      "def": [
+        "http://data.europeana.eu/concept/1683",
+        "http://data.europeana.eu/concept/48",
+        "http://vocab.getty.edu/aat/300046300",
+        "http://vocab.getty.edu/aat/300389795",
+        "http://vocab.getty.edu/aat/300128675"
+      ],
+      "en": [
+        "Photography",
+        "glass slide"
+      ]
+    },
+    "edmConcept": [
+      "http://data.europeana.eu/concept/1683",
+      "http://vocab.getty.edu/aat/300128675",
+      "http://vocab.getty.edu/aat/300389795",
+      "http://data.europeana.eu/concept/48",
+      "http://vocab.getty.edu/aat/300046300"
+    ],
+    "edmConceptLabel": [
+      {
+        "def": "Genre der Fotografie"
+      },
+      {
+        "def": "Gelatinefolie"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "Valokuvaustyyli"
+      },
+      {
+        "def": "Valokuva"
+      },
+      {
+        "def": "Fotografigenre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      },
+      {
+        "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "fotografias (obras visuais)"
+      },
+      {
+        "def": "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2"
+      },
+      {
+        "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      },
+      {
+        "def": "Photography genre"
+      },
+      {
+        "def": "gelatin silver transparencies"
+      },
+      {
+        "def": "photography (discipline)"
+      },
+      {
+        "def": "Photograph"
+      },
+      {
+        "def": "photographs"
+      },
+      {
+        "def": "Generi fotografici"
+      },
+      {
+        "def": "trasparenze alla gelatina d'argento"
+      },
+      {
+        "def": "fotografia (disciplina)"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Genre photographique"
+      },
+      {
+        "def": "Photographie"
+      },
+      {
+        "def": "photographies"
+      },
+      {
+        "def": "Fotogr\u00e1fia jellege"
+      },
+      {
+        "def": "F\u00e9nyk\u00e9p"
+      },
+      {
+        "def": "G\u00e9nero fotogr\u00e1fico"
+      },
+      {
+        "def": "transparencias de plata en gelatina"
+      },
+      {
+        "def": "Fotograf\u00eda"
+      },
+      {
+        "def": "fotograf\u00edas (obra visual)"
+      },
+      {
+        "def": "Fotografick\u00fd \u017e\u00e1nr"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "Genero fotografiko"
+      },
+      {
+        "def": "Argazkilaritza"
+      },
+      {
+        "def": "Se\u00e1nra grianghrafad\u00f3ireachta"
+      },
+      {
+        "def": "Grianghraf"
+      },
+      {
+        "def": "Gatunek fotograficzny"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografisk genre"
+      },
+      {
+        "def": "Fotografi"
+      },
+      {
+        "def": "Gen fotografic"
+      },
+      {
+        "def": "Fotografie"
+      },
+      {
+        "def": "G\u00e8nere fotogr\u00e0fic"
+      },
+      {
+        "def": "Fotografia"
+      },
+      {
+        "def": "Fotografiegenre"
+      },
+      {
+        "def": "gelatine-zilver transparanten"
+      },
+      {
+        "def": "fotografie"
+      },
+      {
+        "def": "Foto"
+      },
+      {
+        "def": "foto's"
+      },
+      {
+        "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotoatt\u0113ls"
+      },
+      {
+        "def": "Fotograf"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Fotografija"
+      },
+      {
+        "def": "Foto"
+      }
+    ],
+    "edmConceptPrefLabelLangAware": {
+      "de": [
+        "Gelatinefolie",
+        "Fotografie",
+        "Foto",
+        "Genre der Fotografie"
+      ],
+      "fi": [
+        "Valokuvaustyyli",
+        "Valokuva"
+      ],
+      "ru": [
+        "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f",
+        "\u0416\u0430\u043d\u0440 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438"
+      ],
+      "pt": [
+        "G\u00e9nero fotogr\u00e1fico",
+        "Fotografia",
+        "fotografias (obras visuais)"
+      ],
+      "bg": [
+        "\u0421\u043d\u0438\u043c\u043a\u0430"
+      ],
+      "lt": [
+        "Fotografija"
+      ],
+      "hr": [
+        "Fotografija"
+      ],
+      "lv": [
+        "Fotoatt\u0113ls"
+      ],
+      "fr": [
+        "photographies",
+        "Genre photographique",
+        "Photographie"
+      ],
+      "hu": [
+        "F\u00e9nyk\u00e9p",
+        "Fotogr\u00e1fia jellege"
+      ],
+      "sk": [
+        "Fotograf"
+      ],
+      "sl": [
+        "Fotografija"
+      ],
+      "ga": [
+        "Se\u00e1nra grianghrafad\u00f3ireachta",
+        "Grianghraf"
+      ],
+      "ca": [
+        "G\u00e8nere fotogr\u00e0fic",
+        "Fotografia"
+      ],
+      "sv": [
+        "Fotografi",
+        "Fotografigenre"
+      ],
+      "el": [
+        "\u0395\u03af\u03b4\u03bf\u03c2 \u03c6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2",
+        "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+      ],
+      "mt": [
+        "Fotografija"
+      ],
+      "en": [
+        "Photography genre",
+        "gelatin silver transparencies",
+        "photography (discipline)",
+        "photographs",
+        "Photograph"
+      ],
+      "it": [
+        "fotografie",
+        "fotografia (disciplina)",
+        "Foto",
+        "trasparenze alla gelatina d'argento",
+        "Generi fotografici"
+      ],
+      "es": [
+        "transparencias de plata en gelatina",
+        "G\u00e9nero fotogr\u00e1fico",
+        "fotograf\u00edas (obra visual)",
+        "Fotograf\u00eda"
+      ],
+      "et": [
+        "Foto"
+      ],
+      "cs": [
+        "Fotografick\u00fd \u017e\u00e1nr",
+        "Fotografie"
+      ],
+      "eu": [
+        "Genero fotografiko",
+        "Argazkilaritza"
+      ],
+      "pl": [
+        "Fotografia",
+        "Gatunek fotograficzny"
+      ],
+      "da": [
+        "Fotografisk genre",
+        "Fotografi"
+      ],
+      "ro": [
+        "Fotografie",
+        "Gen fotografic"
+      ],
+      "nl": [
+        "gelatine-zilver transparanten",
+        "foto's",
+        "fotografie",
+        "Fotografiegenre",
+        "Foto"
+      ]
+    },
+    "edmDatasetName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "edmIsShownBy": [
+      "https://lib.is/IE2307622/stream?quality=LOW"
+    ],
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE2307622%2Fstream%3Fquality%3DLOW&type=IMAGE"
+    ],
+    "edmTimespan": [
+      "#1910%2F1939"
+    ],
+    "edmTimespanLabel": [
+      {
+        "def": "1910/1939"
+      }
+    ],
+    "edmTimespanLabelLangAware": {
+      "zxx": [
+        "1910/1939"
+      ]
+    },
+    "europeanaCollectionName": [
+      "2024903_EuropeanaPhotography_KULeuven_1010"
+    ],
+    "europeanaCompleteness": 10,
+    "guid": "https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9988474860101488?utm_source=api&utm_medium=api&utm_campaign=oqualongl",
+    "id": "/2024903/photography_ProvidedCHO_KU_Leuven_9988474860101488",
+    "index": 0,
+    "language": [
+      "mul"
+    ],
+    "link": "https://api.europeana.eu/record/2024903/photography_ProvidedCHO_KU_Leuven_9988474860101488.json?wskey=oqualongl",
+    "organizations": [
+      "http://data.europeana.eu/organization/1482250000000362039",
+      "http://data.europeana.eu/organization/1482250000001721054"
+    ],
+    "previewNoDistribute": false,
+    "provider": [
+      "PHOTOCONSORTIUM"
+    ],
+    "rights": [
+      "http://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "score": 82.75613,
+    "timestamp": 1688677031731,
+    "timestamp_created": "2019-10-07T11:00:43.516Z",
+    "timestamp_created_epoch": 1570446043516,
+    "timestamp_update": "2022-05-16T07:59:42.490Z",
+    "timestamp_update_epoch": 1652687982490,
+    "title": [
+      "Ancient Greek pottery. Vase Symposion",
+      "Oud-Grieks aardewerk. Vaas Symposion"
+    ],
+    "type": "IMAGE",
+    "ugc": [
+      false
+    ]
+  }
+]

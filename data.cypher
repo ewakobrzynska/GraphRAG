@@ -1,0 +1,5 @@
+CREATE (a:Artifact {name: "Ancient Vase", era: "Classical"})
+CREATE (b:Location {name: "Athens"})
+CREATE (c:Era {name: "Classical", period: "500 BC - 400 BC"})
+CREATE (a)-[:LOCATED_IN]->(b)
+CREATE (a)-[:BELONGS_TO]->(c)
