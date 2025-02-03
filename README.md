@@ -21,7 +21,6 @@
 - [🚀 Running the Application](#-running-the-application)  
 - [🧠 How It Works](#-how-it-works)  
 - [📌 Usage Examples](#-usage-examples)  
-- [📜 License](#-license)  
 
 ---
 
@@ -102,13 +101,3 @@ This will start a local web server where you can interact with the search tool.
 | `Roman`     | *Roman Empire, Colosseum, Roman Coins* |
 | `Athens`    | *Classical Greece, Parthenon, Athenian Pottery* |
 
----
-
-## 📜 License  
-
-This project is open-source and licensed under the **MIT License**.  
-
-🔹 **Author:** [Ewa Kobrzynska](https://github.com/ewakobrzynska)  
-🔹 **Version:** 1.0  
-
-Feel free to contribute to the project or report any issues! 🚀
